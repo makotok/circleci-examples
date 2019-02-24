@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>gradle-example-project</name>
-	<comment>Project gradle-example-project created by Buildship.</comment>
+	<name>circleci-examples</name>
+	<comment>Project circleci-examples created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
